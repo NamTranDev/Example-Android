@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="35dp"
+    android:background="#303F9F">
+
+
+    <ImageButton
+        android:layout_width="165dp"
+        android:layout_height="125dp"
+        android:id="@+id/imageButton"
+        android:background="@drawable/facebook"
+        android:layout_gravity="center_horizontal" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="DANG NHAP"
+        android:id="@+id/txtDangnhap"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:inputType="textPersonName"
+        android:hint="  Email"
+        android:background="#FFFFFF"
+        android:id="@+id/edtEmail"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:inputType="textPassword"
+        android:background="#FFFFFF"
+        android:hint="  Password"
+        android:id="@+id/edtPassword"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center_horizontal" />
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        android:text="Show Password"
+        android:id="@+id/ckbShowpassword"
+        android:layout_marginTop="10dp"
+         />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textSize="20dp"
+        android:id="@+id/btnLogin"
+        android:textColor="#FFFFFF"
+        android:background="#512DA8"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

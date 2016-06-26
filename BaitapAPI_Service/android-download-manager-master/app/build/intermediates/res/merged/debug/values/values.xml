@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/A:/Code/BaitapAPI_Service/android-download-manager-master/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">DownloadManager</string>
+    <string name="hello">Hello World, DownloadManager!</string>
+</resources>

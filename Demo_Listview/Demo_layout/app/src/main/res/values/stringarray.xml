@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tiengviet">
+        <item>Việt Nam</item>
+        <item>Nhật Bản</item>
+        <item>Hàn Quốc</item>
+    </string-array>
+    <string-array name="Tienganh">
+        <item>Vietnam</item>
+        <item>Japan</item>
+        <item>Korea</item>
+    </string-array>
+    <array name="hinh">
+        <item>@drawable/vietnam</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/korea</item>
+    </array>
+</resources>

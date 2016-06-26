@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stringformat1">Chao ban ! Ban nhan duoc %1$d tin nhan </string>
+    <string name="stringformat2">Chao %1$s ! Ban nhan duoc <b>%2$d </b> <i>tin </i> <u>nhan </u></string>
+</resources>

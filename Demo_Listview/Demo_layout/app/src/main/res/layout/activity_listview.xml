@@ -1,0 +1,10 @@
+<ListView xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/list_view"
+    android:padding="20dp"
+    android:layout_centerHorizontal="true"
+    android:layout_gravity="center_horizontal"
+    >
+</ListView>

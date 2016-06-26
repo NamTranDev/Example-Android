@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AllCountrys</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="namevi">Quốc Gia</string>
+    <string name="language">Ngôn Ngữ</string>
+    <string name="caption">Thủ Đô</string>
+    <string name="population">Dân Số</string>\
+    <string name="acreage">Diện Tích</string>
+    <string name="country">Counry</string>
+</resources>

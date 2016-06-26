@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar">#3cb879</color>
+    <color name="white2">#e8e8e8</color>
+    <color name="light_green">#82e783</color>
+    <color name="black">#2b2b2b</color>
+    <color name="dark_gray">#434343</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#5eb964</color>
+    <color name="whitesmoke">#F5F5F5</color>
+    <color name="light_gray">#a1a1a1</color>
+    <color name="dark_green">#1e6258</color>
+    <color name="ghostwhite">#F8F8FF</color>
+    <color name="gray1">#626262</color>
+    <color name="gray">#777777</color>
+    <color name="light_blue">#2A7FCE</color>
+    <color name="dark_blue">#30196E</color>
+    <color name="red">#F44336</color>
+    <color name="amber">#FFC107</color>
+    <color name="primary">#009688</color>
+    <color name="primary_dark">#00796B</color>
+    <color name="primary_light">#B2DFDB</color>
+    <color name="accent">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+</resources>

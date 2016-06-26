@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/heloo"
+        android:id="@+id/image"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/abc_popup_background_mtrl_mult"
+        android:text="TranNam"
+        android:id="@+id/txttext"
+        android:gravity="center"
+        style="@style/text"
+        />
+
+</RelativeLayout>

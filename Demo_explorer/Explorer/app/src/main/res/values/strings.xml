@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Explorer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="hinhanh">
+        <item>@drawable/folder</item>
+    </string-array>
+</resources>

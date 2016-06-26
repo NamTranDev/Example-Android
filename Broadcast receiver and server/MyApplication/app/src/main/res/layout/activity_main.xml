@@ -1,0 +1,22 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Broadcast Receiver"
+        android:textSize="25sp"
+        android:id="@+id/txtreceiver"
+        android:gravity="center"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnservice"
+        android:textSize="25sp"
+        android:text="Service"
+        android:layout_below="@+id/txtreceiver"
+        android:layout_marginTop="25dp"/>
+
+</RelativeLayout>

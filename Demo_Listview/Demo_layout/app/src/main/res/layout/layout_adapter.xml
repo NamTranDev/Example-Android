@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    >
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imghinh"
+        android:src="@drawable/vietnam"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/txttiengviet"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Tieng viet"
+        android:layout_gravity="center"
+        style="@style/Fontchu"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/txttienganh"
+        android:gravity="center"
+        android:text="Tieng Anh"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        style="@style/Fontchu"/>
+</LinearLayout>

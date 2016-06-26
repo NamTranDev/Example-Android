@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button">300dp</dimen>
+    <dimen name="edittext">200dp</dimen>
+    <dimen name="margintop">150dp</dimen>
+</resources>

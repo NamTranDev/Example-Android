@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Baihat">
+    <item quantity="one">Một bai hat duoc tim thay</item>
+    <item quantity="other"><font color="green"><b>%1$d</b> </font> bai hat duoc tim thay</item>
+    </plurals>
+    <plurals name="VietNam">
+        <item quantity="other">Viet Nam co %1$d dan toc</item>
+    </plurals>
+</resources>
