@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee id="1" >
+        <FName>John</FName>
+        <Minit>B</Minit>
+        <LName>Smith</LName>
+        <Ssn>123456789</Ssn>
+        <BDate>1955-01-09T00:00:00</BDate>
+        <Address>731 Fondren, Houston, TX</Address>
+        <Sex>M</Sex>
+        <Salary>30000</Salary>
+        <SuperSsn>987654321</SuperSsn>
+        <Dno>5</Dno>
+    </Employee>
+    <Employee id="2">
+        <FName>Franklin</FName>
+        <Minit>T</Minit>
+        <LName>Wong</LName>
+        <Ssn>333445555</Ssn>
+        <BDate>1945-12-08T00:00:00</BDate>
+        <Address>638 Voss, Houston, TX</Address>
+        <Sex>M</Sex>
+        <Salary>40000</Salary>
+        <SuperSsn>888665555</SuperSsn>
+        <Dno>5</Dno>
+    </Employee>
+    <Employee id="3">
+        <FName>Joyce</FName>
+        <Minit>A</Minit>
+        <LName>English</LName>
+        <Ssn>453453453</Ssn>
+        <BDate>1962-07-31T00:00:00</BDate>
+        <Address>5631 Rice, Houston, TX</Address>
+        <Sex>F</Sex>
+        <Salary>25000</Salary>
+        <SuperSsn>333445555</SuperSsn>
+        <Dno>5</Dno>
+    </Employee>
+    <Employee id="4">
+        <FName>Ramesh</FName>
+        <Minit>K</Minit>
+        <LName>Narayan</LName>
+        <Ssn>666884444</Ssn>
+        <BDate>1952-09-15T00:00:00</BDate>
+        <Address>975 Fire Oak, Humble, TX</Address>
+        <Sex>M</Sex>
+        <Salary>38000</Salary>
+        <SuperSsn>333445555</SuperSsn>
+        <Dno>5</Dno>
+    </Employee>
+    <Employee id="5">
+        <FName>James</FName>
+        <Minit>E</Minit>
+        <LName>Borg</LName>
+        <Ssn>888665555</Ssn>
+        <BDate>1927-11-10T00:00:00</BDate>
+        <Address>450 Stone, Houston, TX</Address>
+        <Sex>M</Sex>
+        <Salary>55000</Salary>
+        <Dno>1</Dno>
+    </Employee>
+    <Employee id="6">
+        <FName>Jennifer</FName>
+        <Minit>S</Minit>
+        <LName>Wallace</LName>
+        <Ssn>987654321</Ssn>
+        <BDate>1931-06-20T00:00:00</BDate>
+        <Address>291 Berry, Bellaire, TX</Address>
+        <Sex>F</Sex>
+        <Salary>43000</Salary>
+        <SuperSsn>888665555</SuperSsn>
+        <Dno>4</Dno>
+    </Employee>
+    <Employee id="7">
+        <FName>Ahmad</FName>
+        <Minit>V</Minit>
+        <LName>Jabbar</LName>
+        <Ssn>987987987</Ssn>
+        <BDate>1959-03-29T00:00:00</BDate>
+        <Address>980 Dallas, Houston, TX</Address>
+        <Sex>M</Sex>
+        <Salary>25000</Salary>
+        <SuperSsn>987654321</SuperSsn>
+        <Dno>4</Dno>
+    </Employee>
+    <Employee id="8">
+        <FName>Alicia</FName>
+        <Minit>J</Minit>
+        <LName>Zelaya</LName>
+        <Ssn>999887777</Ssn>
+        <BDate>1958-07-19T00:00:00</BDate>
+        <Address>3321 Castle, SPring, TX</Address>
+        <Sex>F</Sex>
+        <Salary>25000</Salary>
+        <SuperSsn>987654321</SuperSsn>
+        <Dno>4</Dno>
+    </Employee>
+</Employees>
